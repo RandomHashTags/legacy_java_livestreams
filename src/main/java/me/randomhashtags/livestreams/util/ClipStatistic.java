@@ -1,0 +1,23 @@
+package me.randomhashtags.livestreams.util;
+
+public enum ClipStatistic {
+    CLIP_SLUG,
+    CLIP_TITLE,
+    CLIP_VIEW_COUNT,
+    CLIP_LANGUAGE,
+    CLIP_GAME,
+    CLIP_DURATION,
+    CLIP_CREATED_AT,
+    CLIP_URL,
+    CLIP_EMBED_URL,
+    CLIP_EMBED_HTML,
+    CLIP_THUMBNAIL_MEDIUM,
+
+    CREATOR_ID,
+    CREATOR_NAME,
+    CREATOR_PROFILE_IMG,
+
+    STREAMER_ID,
+    STREAMER_NAME,
+    STREAMER_PROFILE_IMG,
+}

@@ -1,0 +1,22 @@
+package me.randomhashtags.livestreams.util;
+
+public enum StreamStatistic {
+    START_TIME,
+
+    VIDEO_ID,
+    VIDEO_TITLE,
+    VIDEO_DESCRIPTION,
+    VIDEO_LANGUAGE,
+    VIDEO_THUMBNAIL,
+
+    VIDEO_GAME_ID,
+    VIDEO_GAME_NAME,
+    VIDEO_GAME_THUMBNAIL,
+
+    STREAMER_ID,
+    STREAMER_NAME,
+    STREAMER_DESCRIPTION,
+    STREAMER_PROFILE_IMG,
+
+    VIEWERS_CURRENT,
+}
